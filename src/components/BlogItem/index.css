@@ -1,0 +1,5 @@
+/* Write your CSS code here */
+.date {
+  display: flex;
+  justify-content: space-between;
+}
